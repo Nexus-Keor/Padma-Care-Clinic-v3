@@ -1,0 +1,8 @@
+{
+  "name": "Padma Care Clinic Rajshahi",
+  "description": "Bilingual clinic portal for Rajshahi, Bangladesh featuring doctor schedules, appointment booking, department info, and Google Drive integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
